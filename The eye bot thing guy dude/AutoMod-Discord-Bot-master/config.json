@@ -1,0 +1,21 @@
+{
+	"token": "NzUwMDUyNjg2ODY2NDE1NzY3.X006_w.3mQEdHn6fb_-WCQU7nu1tl96B6I",
+	"prefix": ".",
+	"owner": "TheForsakenEffigy",
+	"mainguildID": "guild id here",
+	"errorLogChannel": "750088275875594330",
+	"banLogChannel": "750088147257262151",
+	"joinLogChannel": "750088346797342850",
+	"deleteLogChannel": "750088416234045550",
+	"censoredWords": ["nigga", "nigger" ,"fuck"],
+	"warnBuffer": "5", 
+	"maxBuffer": "10",
+	"interval": "1000",
+	"warningMessage": "stop spamming or you will be banned.",
+	"banMessage": "has been banned for spamming.",
+	"maxDuplicatesWarning": "7",
+	"maxDuplicatesBan": "10",
+	"deleteMessagesAfterBanForPastDays": "7",
+	"exemptRoles": ["Admin", "Moderator"],
+	"exemptUsers": ["user#0001", "user#0002"]
+}
